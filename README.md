@@ -39,6 +39,13 @@ Neat rocks
 This is labeled as *Keysville Beach* on Google Maps. These rocks were from this area or towards Bakersfield on the pull-outs  
 ![Kern river rocks](./kern_river01.jpg)
 
+## Near San Francisco
+### 37.60816154262505, -122.4981025149063
+Rockaway Beach has many giant Jasper boulders to try to protect the shoreline, but not too many small rocks. The two on the left below are from this beach. There were a few surfers out and it seems nice, but I wouldn't list it as someplace to go back to for rockhounding
+### 37.72141085972566, -122.50497975489247
+Fort Funston is more known as a dog park, and should be. Again, generally nice to visit and walk, but not great rockhounding. There are some right sized pieces of red jasper, but you can get those already partly pre-rounded at other places. The items on the right below are from here  
+![rocks from Rockaway and Funston](./rockaway_funston01.jpg)
+
 ## Tumbling notes
 * I need to choose rocks with less deep pits and cracks. It takes too much tumbling to fully remove those
 * Try to choose those without deep concave sections. The more like a sphere, the better
